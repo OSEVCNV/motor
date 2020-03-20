@@ -1,5 +1,7 @@
 # Direct-Drive In-wheel Motor
 
+![alt text](https://raw.githubusercontent.com/OSEVCNV/motor/master/motor.png "Direct-Drive In-wheel Motor")
+
 This is the most versatile component of the project. 
 
 It will need to replace the [internal combustion engine ICE](https://en.wikipedia.org/wiki/Internal_combustion_engine), transmission box and break of a wheel its applied. It makes at least engine, transmission, clutch, gas tank, exhaust and ignition system useless compared to regular ICE-car.
