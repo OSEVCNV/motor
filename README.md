@@ -22,7 +22,7 @@ Are these requirements realistic? Yes. There are already multiple players on the
 
 ## How can you help?
 
-You can contribute calculations, draw (3d-)drawings, improve the idea forward or find answers to some of the open questions below.
+You can contribute calculations, (3d-)drawings, improve the idea further or find answers to some of the open questions below. Just clone this project and make a pull request.
 
 ### Coils (Stator)
 
