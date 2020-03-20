@@ -12,7 +12,7 @@ In-Wheel motor should be care-free, but maintainable and tire changes should be 
 
 Desired engine size should be anything from 50kw/120V/250Nm upwards and typical setup would include two engines (100kw+ in total). Why? This reflects to most common cars at European markets today (like [VW Golf](https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk7#Engines)).
 
-Are these requirements realistic? Yes. There are already multiple players on the market that are making commercial solutions. Some of those include [Protean](https://www.proteanelectric.com/), [Elaphe](https://in-wheel.com/en/), [Orbis](https://orbisdriven.com/), [Franke](https://www.frankedirectdrive.com/en/) and [Verge TS](https://www.vergemotorcycles.com/).
+Are these requirements realistic? Yes. There are already multiple players on the market that are making commercial solutions. Some of those include [Protean](https://www.proteanelectric.com/), [Elaphe](https://in-wheel.com/en/), [Orbis](https://orbisdriven.com/), [Franke](https://www.frankedirectdrive.com/en/), [Rolls-Royce](https://www.youtube.com/watch?v=AZeWPlVoLko) and [Verge TS](https://www.vergemotorcycles.com/).
 
 ## What do we need? 
 
@@ -44,7 +44,7 @@ You can contribute calculations, draw (3d-)drawings, improve the idea forward or
 
 ### Bearings
 
-- How to seal for a waterproof structure?
+- How to seal for a waterproof structure? Should be possible. See [Rolls-Royce](https://www.youtube.com/watch?v=AZeWPlVoLko).
 - Is the max speed (140km/h) an issue for bearings?
 - Integrated or separate ([Franke](https://www.franke-gmbh.com/)) races?
 
